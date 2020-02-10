@@ -1,8 +1,8 @@
 provider "azurerm" {
-subscription_id = "568477cb-ef8b-4f4e-9209-d191d1c62662"
-client_id = "c9a8222c-38ef-4bdc-b0cd-e4f7a0148730"
-client_secret = "_zbfxgagsS:7U6.WQQ@lnJeMaywRVg10"
-tenant_id = "7bd4ccde-430c-43db-acd3-cf1ac003c5f0"
+subscription_id = 
+client_id =
+lient_secret = 
+tenant_id = 
 }
 
 module "yuvirg" {
